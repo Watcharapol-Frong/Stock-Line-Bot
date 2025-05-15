@@ -95,4 +95,4 @@ Future directions include:
 ## ✅ License & Credits
 
 This project is open-source and free to use.  
-Created by [frongwatcharapol.com](https://frongwatcharapol.com)
+Created by [frongwatcharapol.com/stock-bot](https://frongwatcharapol.com/2025/05/14/stock-bot/)
