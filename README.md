@@ -4,7 +4,7 @@ A simple yet powerful LINE bot for checking product stock in real time using Goo
 Designed for small businesses and sales teams who need quick access to stock data — without touching any backend systems.
 
 > **Project Date:** May 14, 2025  
-> **Author:** [frongwatcharapol.com](https://frongwatcharapol.com)
+> **Author:** [frong.me](https://frong.me)
 
 ---
 
@@ -95,4 +95,4 @@ Future directions include:
 ## ✅ License & Credits
 
 This project is open-source and free to use.  
-Created by [frongwatcharapol.com/stock-bot](https://frongwatcharapol.com/2025/05/14/stock-bot/)
+Created by [frong.me/stock-bot](https://frong.me/stock-bot/)
